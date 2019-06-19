@@ -1,0 +1,19 @@
+{
+    "appsync": {
+        "awscloudformation": {
+            "AuthRoleName": "angular-appsync-sdk-appsync-20190619182022-authRole",
+            "UnauthRoleArn": "arn:aws:iam::178989187509:role/angular-appsync-sdk-appsync-20190619182022-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::178989187509:role/angular-appsync-sdk-appsync-20190619182022-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "angular-appsync-sdk-appsync-20190619182022-deployment",
+            "UnauthRoleName": "angular-appsync-sdk-appsync-20190619182022-unauthRole",
+            "StackName": "angular-appsync-sdk-appsync-20190619182022",
+            "StackId": "arn:aws:cloudformation:eu-west-2:178989187509:stack/angular-appsync-sdk-appsync-20190619182022/2b1daa40-92ae-11e9-a001-06afee4bb078"
+        },
+        "categories": {
+            "auth": {
+                "angularappsyncsdk51f97207": {}
+            }
+        }
+    }
+}
