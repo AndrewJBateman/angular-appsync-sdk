@@ -23,7 +23,7 @@ export class AppsyncService {
 		this.hc = client;
 	}
 
-	functionhc() {
+	funchc() {
 		return this.hc.hydrated();
 	}
 }
